@@ -1,2 +1,3 @@
-# Main
-Index repository of Crypto Hide Coin Project
+# Crypto Hide Coin
+
+Main repository of the Project
