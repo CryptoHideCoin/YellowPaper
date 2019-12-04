@@ -2,3 +2,5 @@
 # Crypto Hide Coin
 
 In this repository, we have organize the tech specification reguard Crypto Hide Coin Decentralized Trustless Network
+
+If you want you can read the [wiki edition](https://github.com/CryptoHideCoin/YellowPaper/wiki) 
